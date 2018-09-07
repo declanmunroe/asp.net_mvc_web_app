@@ -1,0 +1,9 @@
+.vs
+packages
+PartyInvites/App_Data
+PartyInvites/App_Start
+PartyInvites/bin
+PartyInvites/fonts
+PartyInvites/obj
+PartyInvites/Properties
+PartyInvites/Scripts
